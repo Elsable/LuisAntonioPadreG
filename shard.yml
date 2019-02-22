@@ -1,0 +1,16 @@
+name: PortfolioLAP
+version: 0.1.0
+
+authors:
+  - Elsable <luisgarcia.lapg@gmail.com>
+
+targets:
+  PortfolioLAP:
+    main: src/PortfolioLAP.cr
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+    
+crystal: 0.27.1
+
+license: MIT
